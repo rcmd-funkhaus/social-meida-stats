@@ -1,4 +1,2 @@
-langugage: bash
-
 script:
-    - bash instagram.sh
+    - ./instagram.sh
