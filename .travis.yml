@@ -1,2 +1,5 @@
+before_install:
+  - sudo apt-get -y install jq curl
+
 script:
     - ./instagram.sh
